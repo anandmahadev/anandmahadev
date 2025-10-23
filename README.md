@@ -1,4 +1,4 @@
-💫 About Me:
+
 Hi there, I'm Anand mahadev 👋<br><br>I'm a first-year B.Tech CSE student with a specialization in **Artificial Intelligence**. I'm passionate about the intersection of technology and business, with a strong interest in **Product Management**.<br><br>I thrive in fast-paced, collaborative environments—especially hackathons! I love the challenge of building a functional MVP from scratch and taking an idea from concept to prototype.<br><br>---<br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anand.mahadevv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandmahadev) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anand M) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandgowda82961@gmail.com) 
 
