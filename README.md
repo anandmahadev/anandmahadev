@@ -1,5 +1,5 @@
 
-Hi there , I'm Anand mahadev 👋<br><br>I'm a first-year B.Tech CSE student with a specialization in **Artificial Intelligence** . I'm passionate about the intersection of technology and business, with a strong interest in ** AInProduct Management**.<br><br>I thrive in fast-paced, collaborative environments—especially  hackathons!and coading events I love the challenge of building a functional MVP from scratch and taking an idea from concept to prototype.<br><br>---<br><br>
+Hi there , I'm Anand mahadev 👋<br><br>I'm a first-year B.Tech CSE student with a specialization in **Artificial Intelligence** . I'm passionate about the intersection of technology and business, with a strong interest in ** AInProduct Management**.<br><br>I thrive in fast-paced, collaborative environments—especially  hackathons!and coading events I love the challenge of building a functional MVP from scratch and taking an idea from concept to prototype.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anand.mahadevv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandmahadev)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandgowda82961@gmail.com) 
 
 💻 Tech Stack:
@@ -9,7 +9,7 @@ Hi there , I'm Anand mahadev 👋<br><br>I'm a first-year B.Tech CSE student wit
 ![](https://nirzak-streak-stats.vercel.app/?user=anandmahadev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandmahadev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-_✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 🔝 Top Contributed Repo
